@@ -1,5 +1,3 @@
-// @dart = 2.9
-
 import 'package:pigeon/pigeon_lib.dart';
 
 class TextureMessage {

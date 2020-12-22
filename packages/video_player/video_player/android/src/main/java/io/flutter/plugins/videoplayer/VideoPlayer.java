@@ -169,7 +169,6 @@ final class VideoPlayer {
 
     exoPlayer.addListener(
         new EventListener() {
-          private boolean isBuffering = false;
 
           public void setBuffering(boolean buffering) {
             if (isBuffering != buffering) {
